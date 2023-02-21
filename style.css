@@ -3,6 +3,9 @@ body {
     margin-left: 20px;
     margin-top: auto;
 }
+p{
+    font-style: italic;
+}
 
 h1 {
     text-align: center;
